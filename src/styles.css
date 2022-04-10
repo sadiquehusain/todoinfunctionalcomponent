@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+  height: 420px;
+  width: 220px;
+  background-color: darkgreen;
+  align-items: center;
+  margin: 80px;
+  padding: 20px;
+}
